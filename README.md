@@ -1,4 +1,7 @@
-<img width="705" height="952" alt="print" src="https://github.com/user-attachments/assets/2ea5fb6d-90bf-4314-8358-58f6346d57cd" />
+<img width="620" height="852" alt="print" src="https://github.com/user-attachments/assets/2ea5fb6d-90bf-4314-8358-58f6346d57cd" />
+
+
+
 SCRIPT DESENVOLVIDO PARA OTIMIZAR AS INFORMAÇÕES DA MÁQUINA, REDUZINDO TEMPO PARA A ABERTURA DO EXPLORADOR DE ARQUIVO, E OUTRAS APLICAÇÕES PARA CONSULTAS.
 
 O SCRIPT É CAPAZ DE: 
